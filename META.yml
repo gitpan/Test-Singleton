@@ -4,7 +4,7 @@ build_requires:
   Class::Singleton: 0
   Test::Builder::Tester: 0
 distribution_type: module
-generated_by: Module::Install version 0.55
+generated_by: Module::Install version 0.63
 license: gpl
 name: Test-Singleton
 no_index:
@@ -14,4 +14,4 @@ no_index:
 requires:
   Test::Builder: 0.16
   Test::More: 0.44
-version: 1.02
+version: 1.03

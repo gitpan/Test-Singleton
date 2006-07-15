@@ -1,6 +1,6 @@
 package Test::Singleton;
 
-# $Id: Singleton.pm,v 1.4 2006/02/15 20:11:46 toni Exp $
+# $Id: Singleton.pm,v 1.5 2006/07/15 02:18:42 toni Exp $
 
 use strict 'vars';
 use vars qw($VERSION);
@@ -9,7 +9,7 @@ use Test::Builder;
 use Test::More;
 
 use vars qw($VERSION);
-$VERSION = "1.02";
+$VERSION = "1.03";
 
 my $Test = Test::Builder->new;
 
